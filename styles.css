@@ -1,13 +1,14 @@
 #menu{display: flex;
 flex-direction: row;
 justify-content: flex-end;}
-p{margin-right: 10px; color: gray}
+p{margin-right: 10px; color: red}
 #content{display: flex;
 flex-direction: column;
 justify-content: center; align-items: center; height: 550px}
 #footer{display: flex;
 flex-direction: row;
-justify-content: space-between;}
+justify-content: space-between;
+background-color: blue;}
 .left{display: flex; flex-direction: row;}
 .right{display: flex; flex-direction: row;}
 #caja{width: 500px; height: 30px; margin: 5px}
